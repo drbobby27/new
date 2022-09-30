@@ -1,0 +1,32 @@
+.img_session{
+    margin-top: 8%;
+    width: 70%;
+    height: 70%;
+}
+.img_form{
+    margin-top: 3%;
+    width: 10%;
+    height: 10%;
+}
+.main {
+    margin-top: 8%;
+}
+.content_main {
+    margin: 8% auto;
+}
+@media (min-width: 768px) {
+    .img_session{
+        margin-top: 5%;
+        width: 50%;
+        height: 50%;
+    }
+ 
+ }
+ @media (min-width: 1440px) {
+    .img_session{
+        margin-top: 5%;
+        width: 30%;
+        height: 30%;
+    }
+ }
+ 
